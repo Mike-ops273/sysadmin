@@ -7,7 +7,7 @@ Handy for when you run out of Photoshop licenses.
 When you get the prompt dialogue, select keep and your image should open up.
 
 ![](keep.jpeg)
-<img src="keep.jpeg" width="600" height="500">
+<img src="keep.jpeg" width="700" height="600">
 
 ![](morpheus.jpeg)
 
