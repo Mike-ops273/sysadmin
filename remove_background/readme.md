@@ -17,19 +17,19 @@ When you get the prompt dialogue, select keep and your image should open up.
 **_Depress_** the Free Select tool and from there select the Foreground Select tool from the left side pane.
 
 ![](foreground-select.jpeg)
-<img src="foreground-select.jpeg" width="450" height="550">
+<img src="foreground-select.jpeg" width="450" height="250">
 
 ### 3. Draw Borders
 
 With the Foreground Select tool draw a border around your subject.
 
 ![](border.jpeg)
-<img src="border.jpeg" width="650" height="550">
+<img src="border.jpeg" width="650" height="250">
 
 Once you have drawn borders press enter and the photo will become blue.
 
 ![](blue.jpeg)
-<img src="blue.jpeg" width="650" height="550">
+<img src="blue.jpeg" width="650" height="300">
 
 ### 4. Highlight the subject
 
