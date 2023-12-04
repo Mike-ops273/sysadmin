@@ -2,7 +2,7 @@
 
 ### demo_idcards:
 
-- Demos how you can take advantage of **Node.JS** good **Web API** and **Python's** great **file system** to fetch and handle data and read/write data objects to files from **Jira**.
+- Demos how you can take advantage of **Node.JS** good **Web API** and **Python's** great **file system** to fetch and handle data as well as read/write data objects to files from **Atlassian Jira**.
 
 ### exchange-online:
 
