@@ -10,7 +10,7 @@ When you get the prompt dialogue, select keep and your image should open up.
 <img src="keep.jpeg" width="650" height="550">
 
 ![](morpheus.jpeg)
-<img src="morpheus.jpeg" width="650" height="450">
+<img src="morpheus.jpeg" width="650" height="350">
 
 ### 2. Select the Foreground Select tool
 
