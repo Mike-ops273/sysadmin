@@ -6,8 +6,10 @@ Handy for when you run out of Photoshop licenses.
 
 When you get the prompt dialogue, select keep and your image should open up.
 
-![](keep.jpeg "dialogue")
-![](morpheus.jpeg "image")
+![](keep.jpeg)
+<img src="keep.jpeg" width="200" height="100">
+
+![](morpheus.jpeg)
 
 ### 2. Select the Foreground Select tool
 
