@@ -46,6 +46,6 @@ inspect the new distribution group in the admin center.
 
 ### Limitations and things to consider
 
-- the cmdlet `Update-DistributionGroupMember` will overwrite your current distribution list. To avoid overwriting the list backup the current list before you run the script on the group by selecting **Download members**:  
+- the cmdlet `Update-DistributionGroupMember` will overwrite your current distribution list. To avoid overwriting the list, backup the current list before you run the script on the group by selecting **Download members**:  
   ![](greyed-out.jpeg)
 - if you forget to set your self as the owner of the group, you might not be able to run scripts on it.
