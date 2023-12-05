@@ -2,7 +2,7 @@
 
 ### azure-arm
 
-- Script to deploy **ARM templates** in **Azure** from an exercise I did.
+- **Script** to deploy **ARM templates** in **Azure** for an exercise I did.
 
 ### demo_idcards:
 
@@ -18,8 +18,8 @@
 
 ### terminal_ai
 
-- Install an AI (LLM) on your local machine to customize and train with your own data.
+- Install an **AI (LLM)** on your local machine to customize and train with your own data.
 
 ### vscode_setup
 
-- automate installation of extensions onto VSCode.
+- **automate** installation of extensions onto **VSCode**.
