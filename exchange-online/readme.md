@@ -8,8 +8,8 @@ But that's really not a problem if you are a PowerShell Wizard :grin:
 
 # Prerequisites
 
-- you will need PowerShell 7 or newer
-- you will need to install Exchange Online module for PowerShell
+- you will need **PowerShell 7 or newer**
+- you will need to install **Exchange Online module** for PowerShell
 
 ### 1. Create the distribution group
 
