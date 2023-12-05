@@ -4,7 +4,7 @@ Because sometimes you just can't use the traditional `Bulk Import Members` butto
 
 ![](greyed-out.jpeg)
 
-But that's really not a problem if you are a PowerShell Wizard :grin:
+But that's really not a problem for a PowerShell Wizard :grin:
 
 # Prerequisites
 
