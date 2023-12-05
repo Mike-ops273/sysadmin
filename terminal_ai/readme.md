@@ -36,7 +36,7 @@ Well, seems like not all problems can be solved with ai :grin:
 
 ### 5. Final tips and tricks
 
-By giving /? as a prompt you get a useful list of commands:
+By giving `/?` as a prompt you get a useful list of commands:
 
 ![](help.jpeg)
 
