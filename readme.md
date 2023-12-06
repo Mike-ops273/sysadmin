@@ -8,6 +8,10 @@
 
 - Demos how you can take advantage of **Node.JS** good **Web API** and **Python's** great **file system** to fetch and handle data as well as read/write data objects to files from **Atlassian Jira**. Also uses **PowerShell**.
 
+### [dev_tooling](https://github.com/Mike-ops273/sysadmin/tree/master/dev_tooling)
+
+- Auo install common **dev tools** to get you up and running quick on MacOS.
+
 ### [exchange-online](https://github.com/Mike-ops273/sysadmin/tree/master/exchange-online)
 
 - **automate** building large distribution groups in **Microsoft's Exchange Online** with **PowerShell**.
