@@ -14,3 +14,5 @@ Installs useful extensions and this is also a neat place to keep track of all my
 ![](my-extensions.jpeg)
 
 Happy scripting and fine tuning :grin:
+
+### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin)

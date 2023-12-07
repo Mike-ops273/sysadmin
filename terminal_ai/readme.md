@@ -47,3 +47,5 @@ The possibilities of what you do with your local LLM from here on out are endles
 One thing I should add is that the LLM does make my terminal look rather dope:
 
 ![](full.jpeg)
+
+### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin)

@@ -24,3 +24,5 @@ This is a fully functioning script but some things to consider and improve are:
 - e notation of certain numbers
 - further optimize the code
 - you will need to modify the paths in `super-scripts.ps1` depending on your operating system (**_Unix vs Windows_** paths)
+
+### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin)
