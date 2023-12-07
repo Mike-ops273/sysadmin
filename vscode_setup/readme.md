@@ -15,4 +15,4 @@ Installs useful extensions and this is also a neat place to keep track of all my
 
 Happy scripting and fine tuning :grin:
 
-### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin#a-repo-with-handy-tools-and-scripts-for-automating-tasks-rocket)
+### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin#vscode_setup-point_right)
