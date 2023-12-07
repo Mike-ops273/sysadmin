@@ -48,4 +48,4 @@ One thing I should add is that the LLM does make my terminal look rather dope:
 
 ![](full.jpeg)
 
-### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin)
+### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin#a-repo-with-handy-tools-and-scripts-for-automating-tasks-rocket)
