@@ -1,4 +1,4 @@
-# Auto install tools with Homebrew for MacOS
+# Auto install tools with Homebrew for MacOS :wrench:
 
 ### Run the script
 
