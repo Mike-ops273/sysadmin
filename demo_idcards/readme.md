@@ -17,7 +17,7 @@ You can install Node Fetch with `npm i node-fetch`
 - Finally `write-data.py` will read the `employee.txt` file and write the final data to an employees csv file used for printing employee id cards.
 - `super-script.ps1` is used to call the scripts in order and to log additional messages to the console.
 
-### Thins to consider
+### Things to consider
 
 This is a fully functioning script but some things to consider and improve are:
 
