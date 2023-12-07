@@ -50,4 +50,4 @@ inspect the new distribution group in the admin center.
   ![](greyed-out.jpeg)
 - if you forget to set your self as the owner of the group, you might not be able to run scripts on it.
 
-### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin#exchange-online-point_right)
+### [:point_left: back to main directory](https://github.com/Mike-ops273/sysadmin#a-repo-with-handy-tools-and-scripts-for-automating-tasks-rocket)
