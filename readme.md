@@ -1,6 +1,6 @@
 # A repo with handy tools and scripts for automating tasks :rocket:
 
-### [azure-arm](https://github.com/Mike-ops273/sysadmin/tree/master/azure_arm)
+### [azure-arm :point_right:](https://github.com/Mike-ops273/sysadmin/tree/master/azure_arm)
 
 - **Script** to deploy **ARM templates** in **Azure** for an exercise I did.
 
